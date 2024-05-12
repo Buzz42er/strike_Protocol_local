@@ -2,7 +2,7 @@ import React from 'react'
 
 const Playstyles = () => {
   return (
-    <div>Playstyles</div>
+    <section>Playstyles</section>
   )
 }
 
